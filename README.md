@@ -16,8 +16,6 @@ I used the onboard camera from neato and the webcam from my laptop with openCV t
 I recorded a series of images from the webcam with 4 poses: `['come', 'left', 'right', 'stop']`, each with approximately 1000 images. 
 Photo taken from webcam:
 
-![Original images](https://raw.githubusercontent.com/AlexisWu-01/compRobo22_computer_vision/main/demo/original.png)
-
 Photo taken from neato:
 
 ![Neato images](https://raw.githubusercontent.com/AlexisWu-01/compRobo22_computer_vision/main/demo/neato.png)
